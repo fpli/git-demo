@@ -20,5 +20,7 @@ how are you?
 how are you?
 master
 very good.  master test
+slave
+very good.
 thanks.
 I'm from branch hot-fix. hot-fix commit.
