@@ -21,4 +21,4 @@ how are you?
 
 very good.
 thanks.
-I'm from branch hot-fix.
+I'm from branch hot-fix. hot-fix commit.
